@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Niko (Νίκος)
-- 👀 I’m interested in trying some new areas (telecom, transport) and languages (Go)
+- 👀 I’m interested in trying some new areas (telecom, transport or whatever) and languages (Go)
 - 🌱 I’m currently learning or reading (or out for some food)
 - 💞️ I’m looking to collaborate on or try what is said in 👀 above.
 - 📫 How to reach me: nikolajs.resetovs@ness.com
